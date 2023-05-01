@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react,flutter**
 
-- 📫 How to reach me **alvincanton29@gmail.com**
+- 📫 How to reach me **alvinwarui01@gmail.com**
 
 - ⚡ Fun fact **if debugging is the process of removing bugs, does this mean programming is the process of creating bugs?**
 
