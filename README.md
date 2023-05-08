@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/alvinwarui29?tab=repositories](https://github.com/alvinwarui29?tab=repositories)
 
-- 💬 Ask me about **react,flutter**
+- 💬 Ask me about **react,flutter,android,php**
 
 - 📫 How to reach me **alvinwarui01@gmail.com**
 
